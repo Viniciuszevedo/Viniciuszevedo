@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinícius Azevedo! 👋
+# Olá, eu sou o Vinícius Azevedo de Avila! 🤙​
 
 Como alguém que uniu a bagagem estruturada do **Direito** com a paixão pela **Ciência da Computação**, busco aplicar um pensamento analítico e focado na resolução de problemas complexos no universo da tecnologia. Atualmente, atuo na área de tecnologia e suporte, com grande interesse em **Cybersecurity, Melhores Práticas Cibernéticas e Infraestrutura**.
 
