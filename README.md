@@ -17,7 +17,6 @@ Como alguém que uniu a bagagem estruturada do **Direito** com a paixão pela **
 Aqui estão algumas das ferramentas, competências e tecnologias que utilizo ou estou estudando:
 
 <!-- Badges modernos e coloridos utilizando shields.io -->
-![DevOps](https://img.shields.io/badge/DevOps-Jenkins-2C8EBB?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Segurança-Melhores%20Práticas-red?style=for-the-badge&logo=shield&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Versionamento-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
