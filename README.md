@@ -1,14 +1,14 @@
 # Olá, eu sou o Vinícius Azevedo! 👋
 
-Como alguém que uniu a bagagem estruturada do **Direito** com a paixão pela **Ciência da Computação**, busco aplicar um pensamento analítico e focado na resolução de problemas complexos no universo da tecnologia. Atualmente, atuo na área de tecnologia e suporte, com grande interesse em **Cybersecurity, Melhores Práticas Cibernéticas e Infraestrutura**.[cite: 1]
+Como alguém que uniu a bagagem estruturada do **Direito** com a paixão pela **Ciência da Computação**, busco aplicar um pensamento analítico e focado na resolução de problemas complexos no universo da tecnologia. Atualmente, atuo na área de tecnologia e suporte, com grande interesse em **Cybersecurity, Melhores Práticas Cibernéticas e Infraestrutura**.
 
 ---
 
 ### 🚀 Atualmente
 
-- 🎓 Cursando **Ciência da Computação** na PUC Minas (Previsão: 2028)[cite: 1]
-- 💼 Atuando como **Analista de Suporte Técnico** no Grupo SOITIC[cite: 1]
-- 🛡️ Estudando e aprofundando conhecimentos em **Segurança da Informação**[cite: 1]
+- 🎓 Cursando **Ciência da Computação** na PUC Minas (Previsão: 2028)
+- 💼 Atuando como **Analista de Suporte Técnico** no Grupo SOITIC
+- 🛡️ Estudando e aprofundando conhecimentos em **Segurança da Informação**
 
 ---
 
