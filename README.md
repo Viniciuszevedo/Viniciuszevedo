@@ -36,6 +36,6 @@ Aqui estão algumas das ferramentas, competências e tecnologias que utilizo ou 
 
 Vamos nos conectar e trocar ideias?
 
-- 💼 **LinkedIn:** [viníciuszevedo](https://www.linkedin.com/in/vin%C3%ADciuszevedo)[cite: 1]
-- 📧 **E-mail:** [vinicius1cangere@gmail.com](mailto:vinicius1cangere@gmail.com)[cite: 1]
-- 📍 **Localização:** Poços de Caldas, MG[cite: 1]
+- 💼 **LinkedIn:** [viníciuszevedo](https://www.linkedin.com/in/vin%C3%ADciuszevedo)
+- 📧 **E-mail:** [vinicius1cangere@gmail.com](mailto:vinicius1cangere@gmail.com)
+- 📍 **Localização:** Poços de Caldas, MG
