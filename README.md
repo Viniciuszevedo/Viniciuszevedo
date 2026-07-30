@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinícius Azevedo de Avila! 
+# Olá, eu sou o Vinícius Azevedo de Avila! 👋
 
 Como alguém que uniu a bagagem estruturada do **Direito** com a paixão pela **Ciência da Computação**, busco aplicar um pensamento analítico e focado na resolução de problemas complexos no universo da tecnologia. Atualmente, atuo na área de tecnologia e suporte, com grande interesse em **Cybersecurity, Melhores Práticas Cibernéticas e Infraestrutura**.
 
@@ -23,9 +23,10 @@ Como alguém que uniu a bagagem estruturada do **Direito** com a paixão pela **
 
 ### 📊 Estatísticas do GitHub
 
-| 📈 Minha Atividade | 💻 Linguagens Mais Usadas |
-| :---: | :---: |
-| ![Estatísticas do Vinícius](https://github-readme-stats.vercel.app/api?username=Viniciuszevedo&show_icons=true&theme=radial&hide_border=true) | ![Linguagens do Vinícius](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuszevedo&layout=compact&theme=radial&hide_border=true) |
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciuszevedo&show_icons=true&theme=radial&hide_border=true&locale=pt-br" alt="Estatísticas do Vinícius" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuszevedo&layout=compact&theme=radial&hide_border=true&locale=pt-br" alt="Linguagens do Vinícius" />
+</p>
 
 ---
 
