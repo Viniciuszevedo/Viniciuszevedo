@@ -23,8 +23,6 @@ Como alguém que uniu a bagagem estruturada do **Direito** com a paixão pela **
 
 ### 📬 Contato & Conexões
 
-Vamos nos conectar e trocar ideias?
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADciuszevedo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius1cangere@gmail.com)
 
