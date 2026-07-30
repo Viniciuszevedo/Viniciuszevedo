@@ -21,15 +21,6 @@ Como alguém que uniu a bagagem estruturada do **Direito** com a paixão pela **
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciuszevedo&show_icons=true&theme=radial&hide_border=true&locale=pt-br" alt="Estatísticas do Vinícius" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuszevedo&layout=compact&theme=radial&hide_border=true&locale=pt-br" alt="Linguagens do Vinícius" />
-</p>
-
----
-
 ### 📬 Contato & Conexões
 
 Vamos nos conectar e trocar ideias?
