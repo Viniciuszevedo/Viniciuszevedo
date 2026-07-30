@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinícius Azevedo de Avila! 🤙​
+# Olá, eu sou o Vinícius Azevedo de Avila! 
 
 Como alguém que uniu a bagagem estruturada do **Direito** com a paixão pela **Ciência da Computação**, busco aplicar um pensamento analítico e focado na resolução de problemas complexos no universo da tecnologia. Atualmente, atuo na área de tecnologia e suporte, com grande interesse em **Cybersecurity, Melhores Práticas Cibernéticas e Infraestrutura**.
 
@@ -14,9 +14,6 @@ Como alguém que uniu a bagagem estruturada do **Direito** com a paixão pela **
 
 ### 🛠️ Tecnologias e Ferramentas
 
-Aqui estão algumas das ferramentas, competências e tecnologias que utilizo ou estou estudando:
-
-<!-- Badges modernos e coloridos utilizando shields.io -->
 ![Cybersecurity](https://img.shields.io/badge/Segurança-Melhores%20Práticas-red?style=for-the-badge&logo=shield&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Versionamento-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -36,6 +33,7 @@ Aqui estão algumas das ferramentas, competências e tecnologias que utilizo ou 
 
 Vamos nos conectar e trocar ideias?
 
-- 💼 **LinkedIn:** [viníciuszevedo](https://www.linkedin.com/in/vin%C3%ADciuszevedo)
-- 📧 **E-mail:** [vinicius1cangere@gmail.com](mailto:vinicius1cangere@gmail.com)
-- 📍 **Localização:** Poços de Caldas, MG
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADciuszevedo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius1cangere@gmail.com)
+
+📍 **Localização:** Poços de Caldas, MG
